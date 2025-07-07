@@ -5,5 +5,5 @@
 ## Tools
 
 - Programing Languages: C, C++, Python, R, Fortran.
-- Database: MySQL, SQLite
+- Database: MySQL, SQLite.
 - Visualization: Power BI, Matplotlib.
