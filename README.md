@@ -1,5 +1,5 @@
 ## About me
-- I am interessted in Data Analysis and Programing.
+- I am interested in Data Analysis and Programing.
 - I studied theoretical Physics at the University of Bern.
 
 ## Tools
