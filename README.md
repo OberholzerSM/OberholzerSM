@@ -1,6 +1,6 @@
 ## About me
-- I am interested in Data Analysis and Programing.
-- I studied theoretical Physics at the University of Bern.
+- Interested in Data Analysis and Programing.
+- Studied Theoretical Physics at the University of Bern.
 
 ## Tools
 - Programing Languages: C, C++, Python, R, Fortran.
